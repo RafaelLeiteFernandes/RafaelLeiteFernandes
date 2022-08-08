@@ -11,7 +11,7 @@
    <img align="center" alt="Rafael-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 
           
-  <img align="right" alt="Rafael-pic" height="150" style="border-radius:50px;" src="https://imgur.com/gallery/RspChu9">
+  <img align="right" alt="Rafael-pic" height="150" style="border-radius:50px;" src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/RspChu9"  ><a href="//imgur.com/a/RspChu9">Just Baby Yoda Waving (GIF)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
 </div>
   
   ##
