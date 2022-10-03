@@ -1,4 +1,4 @@
-## Olá eu sou a Rafael Leite !
+## Olá eu sou o Rafael Leite !
 <div align="center">
   <a href="https://https://github.com/Rafaelzera7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaelzera7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -9,6 +9,8 @@
   <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafael-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+   <img align="center" alt="Rafael-ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+          
 
   ##
  
